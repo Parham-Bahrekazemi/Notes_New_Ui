@@ -1,16 +1,5 @@
 # notes_new_ui
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1683147156](https://user-images.githubusercontent.com/125268240/236050650-12cf765f-ee56-4284-9fca-636455ded8ba.png)
+![Screenshot_1683147167](https://user-images.githubusercontent.com/125268240/236050693-b4873da4-6e65-4ce9-b476-639480d157e0.png)
+![Screenshot_1683147804](https://user-images.githubusercontent.com/125268240/236050705-fa8ba8c5-bbf4-4b1a-80f1-410a27798554.png)
